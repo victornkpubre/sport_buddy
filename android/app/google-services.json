@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49336871256",
+    "project_id": "flutter-assessment-3461d",
+    "storage_bucket": "flutter-assessment-3461d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49336871256:android:9c88744f6facbe46105d2d",
+        "android_client_info": {
+          "package_name": "com.example.sport_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49336871256-fvkuu5v5luh99n9116lj3vlqdo15sr0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sport_buddy",
+            "certificate_hash": "b515379b5ea88cc068033fc0f0ae9281f3cf8bb5"
+          }
+        },
+        {
+          "client_id": "49336871256-o2l58tm0n5bq0bdi14gtqmpj9v0j46jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sport_buddy",
+            "certificate_hash": "1e90d8bfc2c8b7c2dd418a7cd78b010cad58034b"
+          }
+        },
+        {
+          "client_id": "49336871256-q5u2o407u062d3b2gvedkpisc5kjas8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJHVKWA-Kb-74BH0CCeC9Rtbse_xIPuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49336871256-q5u2o407u062d3b2gvedkpisc5kjas8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
